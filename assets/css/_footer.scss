@@ -1,0 +1,109 @@
+footer{
+    padding: 100px 0;
+    background: #1a1e32;
+    .footer-4{
+        .titlefooter{
+            position: relative;
+            display: block;
+            margin-top: 0px;
+            margin-bottom: 39px;
+        h1{
+            color: #ffffff;
+            font-size: 18px;
+            line-height: 20px;
+            font-weight: 600;
+            text-transform: capitalize;
+            font-family: 'Poppins', sans-serif;
+            }
+        }
+    }
+    .footersection1{
+        p{
+            position: relative;
+            color: #a1a4b5 !important;
+            font-size: 15px;
+            font-weight: 500;
+            padding-right: 50px;
+            -webkit-transition: all 500ms ease;
+            transition: all 500ms ease;
+            font-family: 'PoppinsMd', sans-serif;
+        }
+    }
+    .footersection2{
+        ul{
+            margin: 0;
+            padding: 0;
+            li{
+                margin-bottom: 18px;
+                a{
+                    position: relative;
+                    color: #a1a4b5!important;
+                    font-size: 16px;
+                    font-weight: 500;
+                    transition: all 500ms ease;
+                    font-family: 'PoppinsMd', sans-serif;
+                }
+            }
+        }
+    }
+    .footersection3{
+        .widget{
+            ul{
+                margin-left: 0;
+                padding-left: 0;
+            }
+        }
+       section{
+           margin: 0;
+           li{
+            margin-bottom: 18px;
+           a{
+            position: relative;
+            color: #a1a4b5!important;
+            font-size: 16px;
+            font-weight: 500;
+            transition: all 500ms ease;
+                margin-bottom: 20px;
+                font-family: 'PoppinsMd', sans-serif;
+               } 
+           }
+       }
+    }
+    .footersection4{
+        section{
+            margin: 0;
+            li{
+                display: block;
+                align-items: center;
+                margin-bottom: 20px;
+                h3{
+                    display: block;
+                    color: #a02f33;
+                    font-size: 16px;
+                    font-weight: 600;
+                    line-height: 24px;
+                }
+                .lineee{
+                    display: flex;
+                    align-items: center;
+                i{
+                    color: white!important;
+                }
+                a{
+                    position: relative;
+                    display: block;
+                    color: #a1a4b5!important;
+                    font-size: 16px;
+                    font-weight: 500;
+                    padding-left: 20px;
+                    transition: all 500ms ease;
+                    font-family: 'PoppinsMd', sans-serif;
+                }
+            }
+            }
+        }
+    }
+}
+.logo-footer{
+    text-decoration: unset!important;
+}
